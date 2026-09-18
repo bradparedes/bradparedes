@@ -1,4 +1,4 @@
-# ¡Hola! Soy Bradley Castañeda 👋
+# ¡Hola! Soy Bradley Paredes 👋
 
 **Junior .NET / C# Backend Developer**  
 📍 Aguascalientes, México | Disponible para puestos Presenciales y Remotos  
