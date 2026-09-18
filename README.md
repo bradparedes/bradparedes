@@ -3,7 +3,7 @@
 **Junior .NET / C# Backend Developer**  
 📍 Aguascalientes, México | Disponible para puestos Presenciales y Remotos  
 📧 **Email:** bradbjj15@hotmail.com  
-💼 **LinkedIn:** [Bradley Castañeda Paredes](www.linkedin.com/in/bradley-castañeda-paredes-1577b5236)  
+💼 **LinkedIn:** [www.linkedin.com/in/bradley-castañeda-paredes-1577b5236](www.linkedin.com/in/bradley-castañeda-paredes-1577b5236)  
 🐙 **GitHub:** [github.com/bradparedes](https://github.com/bradparedes)
 
 ---
