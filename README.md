@@ -1,20 +1,20 @@
-# ¡Hola! Soy Bradley Paredes 👋
+# ¡Hi! I'm Bradley Paredes 👋
 
-**Backend Software Engineer | .NET 8 / C#**  
-📍 Aguascalientes, México | Disponible para puestos Presenciales y Remotos  
+**Backend Developer | .NET / C#**  
+📍 Aguascalientes, México 
 📧 **Email:** bradbjj15@hotmail.com  
 💼 **LinkedIn:** [Bradley Castañeda Paredes](https://www.linkedin.com/in/bradley-casta%C3%B1eda-paredes-1577b5236/)  
 🐙 **GitHub:** [github.com/bradparedes](https://github.com/bradparedes)
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About me
 
-Desarrollador Backend enfocado en el ecosistema **.NET 8** y **C#**. Me apasiona diseñar e implementar APIs RESTful corporativas, escalables y de alto rendimiento. Mi enfoque técnico se basa en la aplicación rigurosa de **Clean Architecture**, **principios SOLID** y la implementación de arquitecturas desacopladas basadas en mensajes (**CQRS**). Cuento con sólida experiencia en persistencia transaccional (PostgreSQL, SQL Server), seguridad avanzada con JWT, automatización en entornos nativos Linux (Ubuntu) y orquestación con Docker.
+Driven and detail-oriented Backend Developer dedicated to building efficient, structured, and reliable server-side applications. I focus on writing clean, maintainable code and adopting architectural best practices that ensure software can scale smoothly.My daily work is driven by curiosity and a commitment to modern development environments. I thrive on breaking down complex problems, optimizing application performance, and continuously refining my craft.I am highly adaptable, eager to contribute to collaborative teams, and ready to bring value to impactful projects from day one. Let’s connect!
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### 🛠️ Tech Stack & Tools
 
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -24,32 +24,32 @@ Desarrollador Backend enfocado en el ecosistema **.NET 8** y **C#**. Me apasiona
 ![Linux](https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- **Lenguajes & Frameworks:** C#, .NET 8 / .NET Core, ASP.NET Core Web API, Entity Framework Core, LINQ, JavaScript.
-- **Arquitectura & Patrones:** Clean Architecture, CQRS (Command Query Responsibility Segregation), Patrón Mediator (MediatR), Unit of Work, Repository Pattern, Principios SOLID, DTOs.
-- **Bases de Datos & Infraestructura:** PostgreSQL (Optimización con Índices y Funciones Nativas), SQL Server, Migraciones, Modelado Relacional (ACID), Docker & Docker Compose.
-- **Seguridad & Robustez:** JWT (JSON Web Tokens), Control de Acceso Basado en Roles (RBAC), Middleware Global de Excepciones, Logging Estructurado (ILogger).
-- **Herramientas & Entornos:** Git & GitHub (Commits Semánticos), Postman, Swagger UI, Bash Scripting, Linux (Ubuntu 24.04 LTS).
-- **Idiomas:** Español (Nativo), Inglés B1 (Técnico / Lectura fluida de documentación y especificaciones).
+- **Lenguages & Frameworks:** C#, .NET 8 / .NET Core, ASP.NET Core Web API, Entity Framework Core, LINQ, JavaScript.
+- **Architecture & Patterns:** Clean Architecture, CQRS (Command Query Responsibility Segregation), Patrón Mediator (MediatR), Unit of Work, Repository Pattern, Principios SOLID, DTOs.
+- **DataBases & Infrastructure:** PostgreSQL (Optimización con Índices y Funciones Nativas), SQL Server, Migraciones, Modelado Relacional (ACID), Docker & Docker Compose.
+- **Security & Robustness:** JWT (JSON Web Tokens), Control de Acceso Basado en Roles (RBAC), Middleware Global de Excepciones, Logging Estructurado (ILogger).
+- **Tolls & Environments:** Git & GitHub (Commits Semánticos), Postman, Swagger UI, Bash Scripting, Linux (Ubuntu 24.04 LTS).
+- **Lenguages:** Español (Native), English B1.
 
 ---
 
-### 💻 Proyectos Destacados
+### 💻 Featured Projects
 
-#### 🏢 [MiniERP - Web API RESTful de Gestión Empresarial](https://github.com/bradparedes/MiniERP)
-> API RESTful de alto rendimiento desarrollada con **.NET 8** y **PostgreSQL**, optimizada para entornos Linux (Ubuntu) mediante contenedores **Docker**.
-- **Arquitectura Avanzada:** Implementación estricta de *Clean Architecture* desacoplada al 100% mediante el patrón **Mediator (MediatR v11)** y **CQRS** para separar las operaciones de lectura y escritura.
-- **Consistencia de Datos:** Uso del patrón **Unit of Work** para coordinar transacciones atómicas de Entity Framework Core, garantizando la integridad de datos corporativos en PostgreSQL.
-- **Robustez de Producción:** Configuración de un Middleware Global de Excepciones con **ILogger estructurado** para trazar errores de sistema sin exponer datos sensibles, y sistema asíncrono de logs de auditoría para operaciones críticas.
+#### 🏢 [MiniERP - RESTful Web API for Business Management](https://github.com/bradparedes/MiniERP)
+> High-performance RESTful API developed with **.NET 8** and **PostgreSQL**, optimized for Linux (Ubuntu) environments using **Docker** containers.
+- **Advanced Architecture:** Strict implementation of *Clean Architecture*, fully decoupled using the **Mediator (MediatR v11)** pattern and **CQRS** to separate read and write operations.
+- **Data Consistency:** Use of the **Unit of Work** pattern to coordinate atomic Entity Framework Core transactions, ensuring the integrity of corporate data in PostgreSQL.
+- **Production-Grade Robustness:** Global Exception Middleware configuration with **structured ILogger** to trace system errors without exposing sensitive data, plus an asynchronous audit logging system for critical operations.
 
-#### 📝 [Task Manager Solution - API RESTful de Gestión de Tareas](https://github.com/bradparedes/TaskManagerSolution)
-> Solución backend robusta desarrollada en **C#** utilizando arquitectura por capas y **SQL Server**.
-- **Persistencia Abstraída:** Uso de Entity Framework Core junto al patrón *Repository* para aislar y flexibilizar la capa de acceso a datos.
-- **Validaciones Avanzadas:** Reglas de negocio centralizadas, mapeo limpio de transferencia con DTOs y manejo unificado de excepciones HTTP.
-- **Control de Versiones:** Ciclo de desarrollo documentado mediante un historial estricto de commits semánticos y estructurados con Git.
+#### 📝 [Task Manager Solution - RESTful Task Management API](https://github.com/bradparedes/TaskManagerSolution)
+> Robust backend solution developed in **C#** using a layered architecture and **SQL Server**.
+- **Abstracted Persistence:** Use of Entity Framework Core combined with the *Repository* pattern to decouple and add flexibility to the data access layer.
+- **Advanced Validation:** Centralized business rules, clean data transfer mapping using DTOs, and unified HTTP exception handling.
+- **Version Control:** Documented development lifecycle featuring a strict history of semantic, structured Git commits.
 
 ---
 
-### 📜 Certificaciones
+### 📜 Certifications
 
 - **Foundational C# with Microsoft** – FreeCodeCamp.
 - **SQL Fundamentals & Intermediate** – SoloLearn.
