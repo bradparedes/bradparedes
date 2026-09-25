@@ -10,7 +10,7 @@
 
 ### 🚀 About me
 
-Driven and detail-oriented Backend Developer dedicated to building efficient, structured, and reliable server-side applications. I focus on writing clean, maintainable code and adopting architectural best practices that ensure software can scale smoothly.My daily work is driven by curiosity and a commitment to modern development environments. I thrive on breaking down complex problems, optimizing application performance, and continuously refining my craft.I am highly adaptable, eager to contribute to collaborative teams, and ready to bring value to impactful projects from day one. Let’s connect!
+Backend developer focused on the .NET and C# ecosystem. Passionate about new software technologies and solving complex problems. I am eager to learn and constantly seek to optimize processes and components. I am dedicated to honing my skills, including collaborating effectively toward shared goals.
 
 ---
 
