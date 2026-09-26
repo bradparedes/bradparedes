@@ -10,7 +10,7 @@
 
 ### 🚀 About me
 
-Backend developer focused on the .NET and C# ecosystem. Passionate about new software technologies and solving complex problems. I am eager to learn and constantly seek to optimize processes and components. I am dedicated to honing my skills, including collaborating effectively toward shared goals.
+Backend developer focused on the .NET and C# ecosystem. Passionate about new software technologies and solving complex problems. I am eager to learn and constantly seek to optimize processes and components. I am dedicated to honing my skills, including collaborating effectively toward shared goals. One of my best skills is that I always seek to learn in a pragmatic way.
 
 ---
 
