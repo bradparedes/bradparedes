@@ -2,7 +2,8 @@
 
 **Backend Developer | .NET / C# | PostgreSQL | Clean Architecture | REST APIs | Docker/Linux**
 
-📍 Aguascalientes, México 
+📍 Aguascalientes, México
+
 📧 **Email:** bradbjj15@hotmail.com  
 💼 **LinkedIn:** [Bradley Castañeda Paredes](https://www.linkedin.com/in/bradley-casta%C3%B1eda-paredes-1577b5236/)  
 🐙 **GitHub:** [github.com/bradparedes](https://github.com/bradparedes)
